@@ -16,7 +16,7 @@ High-level workflow
 3. Use the `code/dataset_cluster_drop.py` loader in GraphCL experiments.
 
 
-<video src="https://github.com/re-plicateUbiGraph/main/building_seg.mp4?raw=true" width="800" controls>
+<video src="https://github.com/re-plicate/UbiGraph/blob/main/building_seg.mp4?raw=true" width="800" controls>
 。
 </video>
 
@@ -46,6 +46,7 @@ Some additional experiments on Reinforce Learning and Transfer Learning are cond
 Notes
 - This release intentionally omits model weights, videos, and raw datasets. Placeholders and relative paths are used.
 - Review `docs/` for mapping from these sanitized scripts back to original files in your repo.
+
 
 
 
