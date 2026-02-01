@@ -32,7 +32,14 @@ pip install -r GCL-release/requirements.txt
 python GCL-release/code/data_process_example.py --input-a input_a.csv --input-b input_b.csv --output-dir ./GCL-release/output_graphs
 ```
 
+# Self-collected datasets
+We fused the two cities' data to build our dataset: 
+
+# Additional Experiments
+Some additional experiments on Reinforce Learning and Transfer Learning are conducted to evaluate our system
+
 Notes
 - This release intentionally omits model weights, videos, and raw datasets. Placeholders and relative paths are used.
 - Review `docs/` for mapping from these sanitized scripts back to original files in your repo.
+
 
