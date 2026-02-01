@@ -1,0 +1,11 @@
+# Ignore outputs and sensitive data
+output_graphs/
+GCL-release/output_graphs/
+*.pt
+*.pth
+*.mp4
+*.xlsx
+__pycache__/
+*.pyc
+.env
+.DS_Store
