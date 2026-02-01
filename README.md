@@ -14,7 +14,7 @@ High-level workflow
 1. Run segmentation+classification inference to produce segmented CSVs with columns `time,longitude,latitude,class`.
 2. Run the processing script to produce `cluster_drop`, `cluster_link`, and `cluster_across_link` CSVs.
 3. Use the `code/dataset_cluster_drop.py` loader in GraphCL experiments.
-
+<video src="https://github.com/re-plicate/UbiGraph/building_seg.mp4" width="800" controls></video>
 Quick start
 1. Install dependencies:
 
@@ -41,5 +41,6 @@ Some additional experiments on Reinforce Learning and Transfer Learning are cond
 Notes
 - This release intentionally omits model weights, videos, and raw datasets. Placeholders and relative paths are used.
 - Review `docs/` for mapping from these sanitized scripts back to original files in your repo.
+
 
 
