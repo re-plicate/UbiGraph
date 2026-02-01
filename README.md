@@ -1,4 +1,5 @@
-# YOLO11 — GCL Release (Open-source packaging)
+# UbiGraph: Towards Ubiquitous Parking Search and Inference with
+Graph Learning on Drone Sensing
 
 This folder collects the minimal, sanitized code and instructions to reproduce the dataset generation pipeline used in the YOLO11 project for GraphCL experiments.
 
@@ -34,3 +35,4 @@ python GCL-release/code/data_process_example.py --input-a input_a.csv --input-b 
 Notes
 - This release intentionally omits model weights, videos, and raw datasets. Placeholders and relative paths are used.
 - Review `docs/` for mapping from these sanitized scripts back to original files in your repo.
+
