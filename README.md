@@ -1,7 +1,9 @@
 # UbiGraph: Towards Ubiquitous Parking Search and Inference with
 Graph Learning on Drone Sensing
 
-This folder collects the minimal, sanitized code and instructions to reproduce the dataset generation pipeline used in the YOLO11 project for GraphCL experiments.
+Please refer to the "master" branch. 
+
+The folder collects the minimal, sanitized code and instructions to reproduce the dataset generation pipeline used in the YOLO11 project for GraphCL experiments.
 
 What is included
 - `code/` — sanitized processing and inference helper scripts (relative paths, CLI args).
@@ -50,6 +52,7 @@ Some additional experiments on Reinforce Learning and Transfer Learning are cond
 Notes
 - This release intentionally omits model weights, videos, and raw datasets. Placeholders and relative paths are used.
 - Review `docs/` for mapping from these sanitized scripts back to original files in your repo.
+
 
 
 
